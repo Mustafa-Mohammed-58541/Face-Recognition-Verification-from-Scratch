@@ -1,4 +1,4 @@
-data/anchor/
-data/negative/
-data/positive/
-application/verifcation_img/
+data/anchor/*
+data/negative/*
+data/positive/*
+verifcation_img/*
